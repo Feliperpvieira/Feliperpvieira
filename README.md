@@ -1,7 +1,7 @@
 ![frpv](https://user-images.githubusercontent.com/47862856/187071329-cf30bbe5-de92-4532-9e67-6bc98e95b81a.svg)
 
 # 👋 Oi! 
-Eu sou o Felipe Rabaça e atualmente estou no meu último período de Design - Mídia Digital na PUC-Rio.
+Eu sou o Felipe Rabaça e sou formado em Design - Mídia Digital na PUC-Rio.
 
 Como designer, meu foco não é programação, mas eu mantenho algumas coisinhas de código aqui.\
 Minhas favoritas são:
