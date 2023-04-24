@@ -6,6 +6,8 @@ Eu sou o Felipe Rabaça e atualmente estou no meu último período de Design - M
 Como designer, meu foco não é programação, mas eu mantenho algumas coisinhas de código aqui.\
 Minhas favoritas são:
 
+- [**rePraça**](https://github.com/Feliperpvieira/repraca): rePraça é um imaginador virtual de praças da cidade; uma plataforma que possibilita que cada cidadão projete a sua própria visão de um espaço público e troque ideia com os outros frequentadores daquele local.
+
 - [**Arrasa Quarteirão**](https://github.com/Feliperpvieira/arrasa_quarteirao): Você é um monstro e precisa arrasar todos os quarteirões enquanto foge! Esse é um projeto de jogo mobile que a gente foi desenvolvendo ao longo da faculdade, um pouquinho mais a cada disciplina.
 
 - [**Pescaria com Arduino**](https://github.com/Feliperpvieira/Arduino-Fishing-Game): Sabe a pescaria da festa junina? Então, é isso só que mais legal! Aqui a gente desenvolveu um minigame de pescaria que utiliza sensores ligados ao Arduino pra poder adicionar água de verdade ao gameplay.
